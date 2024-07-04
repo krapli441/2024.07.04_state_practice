@@ -1,4 +1,3 @@
-// src/state.ts
 import { atom } from "recoil";
 
 export interface Todo {
